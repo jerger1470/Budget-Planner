@@ -45,6 +45,13 @@ const connectDB = async () => {
 };
 connectDB()
 
+// cors origin URL - Allow inbound traffic from origin
+corsOptions = {
+  origin: "Your FrontEnd Website URL",
+  optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
+};
+app.use(cors(corsOptions));
+
 // routes
 app.use(require("./routes/api.js"));
 
