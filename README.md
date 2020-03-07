@@ -8,6 +8,9 @@ Use the package manager in node, node server.js
 Deployed
 https://floating-taiga-72733.herokuapp.com/
 
+Github
+https://github.com/jerger1470/Budget-Planner
+
 Client Story
 
 AS AN avid traveller
