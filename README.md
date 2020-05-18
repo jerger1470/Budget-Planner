@@ -39,7 +39,12 @@ https://floating-taiga-72733.herokuapp.com/
 Github
 https://github.com/jerger1470/Budget-Planner
 
-Contributing
+## Contributing
+
+Created by: Bryan Jerger
+Github: Jerger1470
+Dev Profile: http://bryanmjerger.net
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
