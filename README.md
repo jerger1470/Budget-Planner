@@ -7,10 +7,26 @@ Budget Planner is a PWA node application that logs income and expenses locally a
 I created this App to give users the ability to create a basic budget that can create deposits and expenses
 for a live-run time tracker. It has local storage built in to allow for offline tracking when internet connection is not available.
 
-Installation
+## Installation
+
 Locally
-Use the package manager in node, node server.js
-(remember to install package.json with npm i)
+Use the package manager in node.
+Run: NPM install
+
+Run: Node server.js
+
+"dependencies": {
+"compression": "^1.7.4",
+"cors": "^2.8.5",
+"dotenv": "^8.2.0",
+"express": "^4.17.1",
+"lite-server": "^2.5.3",
+"mongoose": "^5.5.15",
+"morgan": "^1.9.1"
+}
+
+Open locally at localhost:3000
+
 Deployed
 https://floating-taiga-72733.herokuapp.com/
 
