@@ -33,6 +33,8 @@ Run: Node server.js
 
 Open locally at localhost:3000
 
+## Usage
+
 Deployed
 https://floating-taiga-72733.herokuapp.com/
 
